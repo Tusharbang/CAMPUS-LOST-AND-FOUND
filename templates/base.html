@@ -1,0 +1,11 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{% block title %}CampusFind{% endblock %} – RBU Lost & Found</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Archivo+Black&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"></head><body>
+{% set u = g.user %}
+<nav><a class="logo" href="{{ url_for('home') }}"><img class="lg" src="{{ url_for('static', filename='img/logo.png') }}" alt="RBU logo">Campus<b>Find</b></a>
+{% if not u %}<a href="{{ url_for('how') }}">How it works</a><a href="{{ url_for('privacy') }}">Privacy</a><a href="{{ url_for('faq') }}">FAQ</a><a href="{{ url_for('login') }}">Login</a><a href="{{ url_for('register') }}">Register</a>
+{% elif u.role == 'admin' %}<a href="{{ url_for('admin_building', code=u.building_code) if u.building_code else url_for('admin') }}">{{ 'My building' if u.building_code else 'Overview' }}</a><a href="{{ url_for('admin_reports') }}">Reports</a><a href="{{ url_for('admin_matches') }}">Matches</a><a href="{{ url_for('admin_claims') }}">Claims</a><a href="{{ url_for('admin_storage') }}">Storage</a><a href="{{ url_for('admin_handover') }}">Handover</a>{% if not u.building_code %}<a href="{{ url_for('admin_audit') }}">Audit</a>{% endif %}
+{% else %}<a href="{{ url_for('dashboard') }}">Dashboard</a><a href="{{ url_for('new_report', kind='lost') }}">Report lost</a><a href="{{ url_for('new_report', kind='found') }}">Report found</a><a href="{{ url_for('my_reports') }}">My reports</a><a href="{{ url_for('my_claims') }}">My claims</a><a href="{{ url_for('notifications') }}">Alerts{% if unread %} ({{ unread }}){% endif %}</a><a href="{{ url_for('profile') }}">Profile</a><a href="{{ url_for('faq') }}">Help</a>{% endif %}
+{% if u %}<form method="post" action="{{ url_for('logout') }}" style="display:inline">{{ csrf() }}<button class="btn sm" style="background:#fff">Log out</button></form>{% endif %}</nav>
+<main>{% for m in get_flashed_messages() %}<div class="note">{{ m }}</div>{% endfor %}{% block body %}{% endblock %}</main></body></html>

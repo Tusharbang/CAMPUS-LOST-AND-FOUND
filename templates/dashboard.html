@@ -1,0 +1,3 @@
+{% extends "base.html" %}{% block body %}<h2>My dashboard</h2><div class="grid">{% for l, n, qs in stats %}<a class="card" href="{{ url_for('my_reports') }}{{ qs }}"><span class="stat">{{ n }}</span><br><b>{{ l }}</b></a>{% endfor %}</div>
+<h3 style="margin-top:2rem;color:inherit">Needs your attention</h3>{% for c in need %}<div class="card" style="margin-bottom:.5rem">Evidence needed for claim CL-{{ '%04d' % c.claim_id }} · <a href="{{ url_for('my_claims') }}">Open My Claims</a></div>{% else %}<p>Nothing pending.</p>{% endfor %}
+<p><a class="btn sm" href="{{ url_for('notifications') }}">Notifications{% if unread %} ({{ unread }} new){% endif %}</a> <a class="btn sm gold" href="{{ url_for('my_claims') }}">My claims ({{ nclaims }})</a></p>{% endblock %}

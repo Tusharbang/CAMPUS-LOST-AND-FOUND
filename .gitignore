@@ -1,0 +1,20 @@
+# Database, secrets and private uploads must never be committed
+*.db
+*.sqlite
+*.sqlite3
+.secret_key
+.env
+uploads/*
+!uploads/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

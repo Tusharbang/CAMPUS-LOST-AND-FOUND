@@ -1,0 +1,120 @@
+Item_ID,Building_Code,Building,Floor,Date,Location_Room,Item_Name,Category,Brand,Color,Type,Description,Reported_By,Claimant,Status
+DEMO001,DT,DIGITAL TOWER (DT),1th Floor,2026-06-03,DT-111 Lab,Keyboard,Electronics,Logitech,White,Found,"Logitech keyboard, White",Aditi Joshi,,Active
+DEMO002,DT,DIGITAL TOWER (DT),1th Floor,2026-08-05,DT-112,Laptop Charger,Electronics,Dell,White,Lost,"Dell laptop charger, White",Aditi Joshi,,Active
+DEMO003,DT,DIGITAL TOWER (DT),1th Floor,2026-01-29,DT-106,ID Card,Documents,Generic,Blue,Lost,"Generic id card, Blue",Om Tiwari,Yash Mehta,Claimed
+DEMO004,DT,DIGITAL TOWER (DT),Common / Facility,2026-06-19,Common Area,HDMI Cable,Electronics,Belkin,Grey,Lost,"Belkin hdmi cable, Grey",Ishwari Deshmukh,,Active
+DEMO005,DT,DIGITAL TOWER (DT),Common / Facility,2026-02-05,Washroom,Smart Watch,Accessories,Boat,Silver,Found,"Boat smart watch, Silver",Aarav Patil,,Active
+DEMO006,DT,DIGITAL TOWER (DT),2th Floor,2026-08-13,DT-212,Umbrella,Personal,Generic,Blue,Lost,"Generic umbrella, Blue",Karan Mehta,Om Tiwari,Recovered
+DEMO007,DT,DIGITAL TOWER (DT),Common / Facility,2026-04-02,Common Area,Notebook Set,Books & Stationery,Classmate,Black,Lost,"Classmate notebook set, Black",Neha Shah,,Active
+DEMO008,DT,DIGITAL TOWER (DT),1th Floor,2026-03-19,DT-103,Smart Watch,Accessories,Samsung,Blue,Lost,"Samsung smart watch, Blue",Rahul Jain,,Active
+DEMO009,DT,DIGITAL TOWER (DT),1th Floor,2026-02-06,DT-103,HDMI Cable,Electronics,Belkin,Black,Lost,"Belkin hdmi cable, Black",Aarav Patil,,Active
+DEMO010,DT,DIGITAL TOWER (DT),Common / Facility,2026-06-10,Washroom,Backpack,Bags,Skybags,Blue,Lost,"Skybags backpack, Blue",Pranav Kadam,,Active
+DEMO011,DT,DIGITAL TOWER (DT),1th Floor,2026-01-28,DT-114 Lab,HDMI Cable,Electronics,Belkin,Grey,Lost,"Belkin hdmi cable, Grey",Pranav Kadam,,Active
+DEMO012,DT,DIGITAL TOWER (DT),2th Floor,2026-03-20,DT-205,USB Drive,Electronics,SanDisk,Black,Lost,"SanDisk usb drive, Black",Rahul Jain,,Active
+DEMO013,DT,DIGITAL TOWER (DT),2th Floor,2026-07-12,DT-205,Smart Watch,Accessories,Noise,Blue,Lost,"Noise smart watch, Blue",Ishwari Deshmukh,,Active
+DEMO014,DT,DIGITAL TOWER (DT),1th Floor,2026-09-21,DT-106,USB Drive,Electronics,SanDisk,Silver,Lost,"SanDisk usb drive, Silver",Rahul Jain,,Active
+DEMO015,DT,DIGITAL TOWER (DT),1th Floor,2026-08-10,DT-103,TWS Earbuds,Electronics,Boat,Black,Found,"Boat tws earbuds, Black",Rohan More,Riya Bansal,Recovered
+DEMO016,DT,DIGITAL TOWER (DT),2th Floor,2026-08-11,DT-205,Notebook Set,Books & Stationery,Navneet,Blue,Lost,"Navneet notebook set, Blue",Tanmay Joshi,Yash Mehta,Recovered
+DEMO017,DT,DIGITAL TOWER (DT),1th Floor,2026-09-03,DT-103,Parker Pen,Stationery,Cello,Black,Found,"Cello parker pen, Black",Ananya Kulkarni,Tanmay Joshi,Claimed
+DEMO018,GBLOCK,G-BLOCK,Common / Facility,2026-02-08,Common Area,Earphones,Electronics,Boat,Blue,Found,"Boat earphones, Blue",Ishaan Verma,Yash Mehta,Recovered
+DEMO019,GBLOCK,G-BLOCK,Common / Facility,2026-03-30,G Lab,Textbook,Books & Stationery,Oxford,Green,Lost,"Oxford textbook, Green",Riya Bansal,,Active
+DEMO020,GBLOCK,G-BLOCK,Common / Facility,2026-01-10,Lobby,USB Drive,Electronics,Kingston,Silver,Lost,"Kingston usb drive, Silver",Pranav Kadam,,Active
+DEMO021,GBLOCK,G-BLOCK,1th Floor,2026-05-23,G-101,ID Card,Documents,University,Blue,Lost,"University id card, Blue",Aditi Joshi,,Active
+DEMO022,GBLOCK,G-BLOCK,1th Floor,2026-04-25,G-101,HDMI Cable,Electronics,Belkin,Black,Found,"Belkin hdmi cable, Black",Pranav Kadam,Aditya Sharma,Recovered
+DEMO023,GBLOCK,G-BLOCK,Common / Facility,2026-04-24,Seminar Hall,Mobile Phone,Electronics,Realme,White,Found,"Realme mobile phone, White",Aditya Sharma,,Active
+DEMO024,GBLOCK,G-BLOCK,Common / Facility,2026-01-21,G Lab,Tiffin Box,Personal,Signoraware,Steel,Found,"Signoraware tiffin box, Steel",Shreya Patil,,Active
+DEMO025,GBLOCK,G-BLOCK,Common / Facility,2026-03-28,Ground Floor,Laptop Charger,Electronics,HP,Black,Found,"HP laptop charger, Black",Aarav Patil,,Active
+DEMO026,GBLOCK,G-BLOCK,Common / Facility,2026-06-09,G Lab,Textbook,Books & Stationery,McGraw Hill,Green,Found,"McGraw Hill textbook, Green",Diya Jadhav,Naman Gupta,Claimed
+DEMO027,GBLOCK,G-BLOCK,2th Floor,2026-07-03,G-202,TWS Earbuds,Electronics,OnePlus,White,Lost,"OnePlus tws earbuds, White",Tanmay Joshi,,Active
+DEMO028,GBLOCK,G-BLOCK,Common / Facility,2026-04-23,Seminar Hall,Water Bottle,Personal,Tupperware,Silver,Lost,"Tupperware water bottle, Silver",Rahul Jain,,Active
+DEMO029,GBLOCK,G-BLOCK,1th Floor,2026-08-19,G-101,Backpack,Bags,Nike,Grey,Found,"Nike backpack, Grey",Ishaan Verma,,Active
+DEMO030,GBLOCK,G-BLOCK,Common / Facility,2026-09-13,Ground Floor,Tablet,Electronics,Xiaomi,Grey,Found,"Xiaomi tablet, Grey",Ananya Kulkarni,Manasvi Wagh,Recovered
+DEMO031,GBLOCK,G-BLOCK,2th Floor,2026-09-12,G-201,USB Drive,Electronics,HP,Black,Found,"HP usb drive, Black",Naman Gupta,Yash Mehta,Claimed
+DEMO032,GBLOCK,G-BLOCK,Common / Facility,2026-04-27,Common Area,TWS Earbuds,Electronics,Boat,Blue,Lost,"Boat tws earbuds, Blue",Ved Sharma,Manasvi Wagh,Claimed
+DEMO033,GBLOCK,G-BLOCK,Common / Facility,2026-02-27,Staircase,Laptop,Electronics,ASUS,Grey,Lost,"ASUS laptop, Grey",Riya Bansal,Karan Mehta,Recovered
+DEMO034,GBLOCK,G-BLOCK,1th Floor,2026-05-22,G-103,Keyboard,Electronics,Dell,White,Found,"Dell keyboard, White",Aditi Joshi,Aditya Sharma,Claimed
+DEMO035,ECS,ECS BLOCK,Common / Facility,2026-08-23,Lobby,Umbrella,Personal,Generic,Blue,Found,"Generic umbrella, Blue",Manasvi Wagh,Meera Pawar,Claimed
+DEMO036,ECS,ECS BLOCK,1th Floor,2026-02-21,ECS-103,Smart Watch,Accessories,Noise,Blue,Found,"Noise smart watch, Blue",Sakshi Chavan,Ishaan Verma,Recovered
+DEMO037,ECS,ECS BLOCK,1th Floor,2026-05-21,ECS-101,Calculator,Stationery,Texas Instruments,Black,Lost,"Texas Instruments calculator, Black",Kavya Singh,,Active
+DEMO038,ECS,ECS BLOCK,Common / Facility,2026-08-05,Seminar Hall,Earphones,Electronics,JBL,White,Lost,"JBL earphones, White",Yash Mehta,,Active
+DEMO039,ECS,ECS BLOCK,Common / Facility,2026-02-23,Common Area,HDMI Cable,Electronics,Portronics,Grey,Lost,"Portronics hdmi cable, Grey",Tanmay Joshi,,Active
+DEMO040,ECS,ECS BLOCK,2th Floor,2026-03-19,ECS-201,USB Drive,Electronics,Kingston,Black,Found,"Kingston usb drive, Black",Ishwari Deshmukh,,Active
+DEMO041,ECS,ECS BLOCK,1th Floor,2026-08-27,ECS-103,Backpack,Bags,American Tourister,Blue,Found,"American Tourister backpack, Blue",Diya Jadhav,Aditya Sharma,Recovered
+DEMO042,ECS,ECS BLOCK,2th Floor,2026-05-02,ECS-202,Mouse,Electronics,HP,Black,Lost,"HP mouse, Black",Pranav Kadam,,Active
+DEMO043,ECS,ECS BLOCK,1th Floor,2026-03-19,ECS-103,Laptop Charger,Electronics,Acer,Black,Found,"Acer laptop charger, Black",Pranav Kadam,,Active
+DEMO044,ECS,ECS BLOCK,2th Floor,2026-04-26,ECS-202,Laptop Charger,Electronics,Dell,Black,Lost,"Dell laptop charger, Black",Rohan More,Ananya Kulkarni,Recovered
+DEMO045,ECS,ECS BLOCK,Common / Facility,2026-01-27,Seminar Hall,Tiffin Box,Personal,Cello,Blue,Lost,"Cello tiffin box, Blue",Aditya Sharma,,Active
+DEMO046,ECS,ECS BLOCK,2th Floor,2026-09-16,ECS-202,Tiffin Box,Personal,Cello,Black,Lost,"Cello tiffin box, Black",Ved Sharma,Yash Mehta,Recovered
+DEMO047,ECS,ECS BLOCK,Common / Facility,2026-02-02,Seminar Hall,Backpack,Bags,American Tourister,Blue,Found,"American Tourister backpack, Blue",Rohan More,,Active
+DEMO048,ECS,ECS BLOCK,1th Floor,2026-05-07,ECS-104,Notebook Set,Books & Stationery,Navneet,Blue,Lost,"Navneet notebook set, Blue",Om Tiwari,Ishwari Deshmukh,Recovered
+DEMO049,ECS,ECS BLOCK,Common / Facility,2026-06-15,Common Area,USB Drive,Electronics,HP,Silver,Found,"HP usb drive, Silver",Ishaan Verma,,Active
+DEMO050,ECS,ECS BLOCK,2th Floor,2026-07-10,ECS-201,Smart Watch,Accessories,Boat,Blue,Lost,"Boat smart watch, Blue",Kavya Singh,,Active
+DEMO051,ECS,ECS BLOCK,1th Floor,2026-09-26,ECS-104,Tiffin Box,Personal,Milton,Steel,Lost,"Milton tiffin box, Steel",Om Tiwari,,Active
+DEMO052,MBA,MBA,Common / Facility,2026-06-25,Common Area,ID Card,Documents,University,White,Found,"University id card, White",Ishwari Deshmukh,Aditi Joshi,Recovered
+DEMO053,MBA,MBA,Common / Facility,2026-03-26,MBA Lab,Wallet,Personal,Wildhorn,Blue,Found,"Wildhorn wallet, Blue",Arjun Deshmukh,,Active
+DEMO054,MBA,MBA,2th Floor,2026-08-26,MBA-201,Textbook,Books & Stationery,McGraw Hill,Blue,Lost,"McGraw Hill textbook, Blue",Neha Shah,Riya Bansal,Claimed
+DEMO055,MBA,MBA,Common / Facility,2026-03-26,Common Area,Notebook Set,Books & Stationery,Classmate,Blue,Lost,"Classmate notebook set, Blue",Tanmay Joshi,Karan Mehta,Claimed
+DEMO056,MBA,MBA,Common / Facility,2026-02-04,Reception,Laptop,Electronics,Lenovo,Silver,Found,"Lenovo laptop, Silver",Naman Gupta,Riya Bansal,Recovered
+DEMO057,MBA,MBA,Common / Facility,2026-05-07,Lobby,HDMI Cable,Electronics,Amazon Basics,Black,Lost,"Amazon Basics hdmi cable, Black",Yash Mehta,Kavya Singh,Claimed
+DEMO058,MBA,MBA,Common / Facility,2026-09-26,Common Area,Tiffin Box,Personal,Milton,Black,Lost,"Milton tiffin box, Black",Om Tiwari,,Active
+DEMO059,MBA,MBA,Common / Facility,2026-04-16,Common Area,Laptop Charger,Electronics,HP,Black,Found,"HP laptop charger, Black",Riya Bansal,,Active
+DEMO060,MBA,MBA,2th Floor,2026-03-10,MBA-201,Power Bank,Electronics,Portronics,White,Lost,"Portronics power bank, White",Aarav Patil,Rohan More,Recovered
+DEMO061,MBA,MBA,Common / Facility,2026-09-11,Staircase,Laptop Charger,Electronics,Lenovo,Black,Lost,"Lenovo laptop charger, Black",Rohan More,,Active
+DEMO062,MBA,MBA,2th Floor,2026-08-09,MBA-201,Tiffin Box,Personal,Signoraware,Blue,Lost,"Signoraware tiffin box, Blue",Kavya Singh,,Active
+DEMO063,MBA,MBA,2th Floor,2026-07-05,MBA-202,HDMI Cable,Electronics,Belkin,Grey,Found,"Belkin hdmi cable, Grey",Pranav Kadam,,Active
+DEMO064,MBA,MBA,Common / Facility,2026-08-15,MBA Lab,Keys,Personal,Generic,Black,Lost,"Generic keys, Black",Sneha Pande,,Active
+DEMO065,MBA,MBA,Common / Facility,2026-04-12,Reception,Smart Watch,Accessories,Fire-Boltt,Silver,Lost,"Fire-Boltt smart watch, Silver",Om Tiwari,,Active
+DEMO066,MBA,MBA,Common / Facility,2026-07-23,Lobby,Parker Pen,Stationery,Parker,Black,Lost,"Parker parker pen, Black",Pranav Kadam,,Active
+DEMO067,MBA,MBA,Common / Facility,2026-10-01,Common Area,Keys,Personal,Generic,Silver,Found,"Generic keys, Silver",Arjun Deshmukh,Ananya Kulkarni,Claimed
+DEMO068,MBA,MBA,Common / Facility,2026-03-08,Common Area,Backpack,Bags,Wildcraft,Blue,Lost,"Wildcraft backpack, Blue",Karan Mehta,Ishwari Deshmukh,Claimed
+DEMO069,MCA,MCA,Common / Facility,2026-02-05,Staircase,Laptop,Electronics,Lenovo,Black,Lost,"Lenovo laptop, Black",Sneha Pande,Aarav Patil,Recovered
+DEMO070,MCA,MCA,Common / Facility,2026-06-06,Lobby,Umbrella,Personal,Wildcraft,Black,Found,"Wildcraft umbrella, Black",Riya Bansal,Sakshi Chavan,Recovered
+DEMO071,MCA,MCA,1th Floor,2026-07-06,MCA-101,Power Bank,Electronics,Portronics,Blue,Lost,"Portronics power bank, Blue",Arjun Deshmukh,Om Tiwari,Recovered
+DEMO072,MCA,MCA,1th Floor,2026-06-28,MCA-101,Earphones,Electronics,Sony,Blue,Found,"Sony earphones, Blue",Sakshi Chavan,Diya Jadhav,Claimed
+DEMO073,MCA,MCA,1th Floor,2026-09-19,MCA-103,TWS Earbuds,Electronics,Noise,Black,Found,"Noise tws earbuds, Black",Yash Mehta,Neha Shah,Recovered
+DEMO074,MCA,MCA,Common / Facility,2026-03-02,Common Area,HDMI Cable,Electronics,Portronics,Black,Found,"Portronics hdmi cable, Black",Arjun Deshmukh,,Active
+DEMO075,MCA,MCA,Common / Facility,2026-01-30,MCA Lab,Parker Pen,Stationery,Parker,Blue,Lost,"Parker parker pen, Blue",Meera Pawar,Ishaan Verma,Claimed
+DEMO076,MCA,MCA,2th Floor,2026-01-20,MCA-202,HDMI Cable,Electronics,Belkin,Black,Found,"Belkin hdmi cable, Black",Ishwari Deshmukh,Kavya Singh,Claimed
+DEMO077,MCA,MCA,2th Floor,2026-07-15,MCA-202,Keyboard,Electronics,Dell,Black,Lost,"Dell keyboard, Black",Aarav Patil,,Active
+DEMO078,MCA,MCA,Common / Facility,2026-02-12,Staircase,Keyboard,Electronics,Dell,Black,Lost,"Dell keyboard, Black",Neha Shah,Ishaan Verma,Claimed
+DEMO079,MCA,MCA,1th Floor,2026-09-01,MCA-103,Notebook,Books & Stationery,Navneet,Black,Found,"Navneet notebook, Black",Pranav Kadam,Diya Jadhav,Recovered
+DEMO080,MCA,MCA,Common / Facility,2026-07-13,Staircase,HDMI Cable,Electronics,Belkin,Grey,Found,"Belkin hdmi cable, Grey",Aditya Sharma,Karan Mehta,Recovered
+DEMO081,MCA,MCA,Common / Facility,2026-08-24,Seminar Hall,Umbrella,Personal,Generic,Blue,Found,"Generic umbrella, Blue",Karan Mehta,Aarav Patil,Recovered
+DEMO082,MCA,MCA,Common / Facility,2026-01-06,Common Area,Textbook,Books & Stationery,McGraw Hill,Black,Found,"McGraw Hill textbook, Black",Arjun Deshmukh,,Active
+DEMO083,MCA,MCA,Common / Facility,2026-01-12,Staircase,Water Bottle,Personal,Tupperware,Black,Found,"Tupperware water bottle, Black",Aditi Joshi,Ananya Kulkarni,Claimed
+DEMO084,MCA,MCA,Common / Facility,2026-08-30,Lobby,Power Bank,Electronics,Portronics,Blue,Lost,"Portronics power bank, Blue",Ananya Kulkarni,Aditi Joshi,Claimed
+DEMO085,MCA,MCA,1th Floor,2026-09-03,MCA-104,Tablet,Electronics,Apple,Black,Found,"Apple tablet, Black",Shreya Patil,Aditi Joshi,Recovered
+DEMO086,BCA,BCA,2th Floor,2026-09-07,BCA-201,Laptop,Electronics,Acer,Silver,Lost,"Acer laptop, Silver",Tanmay Joshi,Diya Jadhav,Recovered
+DEMO087,BCA,BCA,Common / Facility,2026-08-14,Staircase,Umbrella,Personal,Wildcraft,Blue,Found,"Wildcraft umbrella, Blue",Rohan More,,Active
+DEMO088,BCA,BCA,2th Floor,2026-03-11,BCA-202,HDMI Cable,Electronics,Amazon Basics,Grey,Found,"Amazon Basics hdmi cable, Grey",Kavya Singh,,Active
+DEMO089,BCA,BCA,Common / Facility,2026-08-21,BCA Lab,TWS Earbuds,Electronics,Realme,Black,Lost,"Realme tws earbuds, Black",Diya Jadhav,Aditya Sharma,Recovered
+DEMO090,BCA,BCA,2th Floor,2026-04-01,BCA-201,Smart Watch,Accessories,Boat,Blue,Lost,"Boat smart watch, Blue",Aditya Sharma,Rohan More,Recovered
+DEMO091,BCA,BCA,Common / Facility,2026-04-02,Staircase,Earphones,Electronics,Realme,Black,Found,"Realme earphones, Black",Yash Mehta,,Active
+DEMO092,BCA,BCA,Common / Facility,2026-04-21,Seminar Hall,Umbrella,Personal,Generic,Black,Lost,"Generic umbrella, Black",Diya Jadhav,,Active
+DEMO093,BCA,BCA,2th Floor,2026-02-26,BCA-201,Laptop,Electronics,Acer,Silver,Found,"Acer laptop, Silver",Rahul Jain,Arjun Deshmukh,Recovered
+DEMO094,BCA,BCA,2th Floor,2026-08-24,BCA-202,HDMI Cable,Electronics,Amazon Basics,Black,Found,"Amazon Basics hdmi cable, Black",Pranav Kadam,,Active
+DEMO095,BCA,BCA,Common / Facility,2026-09-05,Staircase,Notebook Set,Books & Stationery,Navneet,Black,Lost,"Navneet notebook set, Black",Rahul Jain,Sneha Pande,Recovered
+DEMO096,BCA,BCA,1th Floor,2026-09-19,BCA-103,Mobile Phone,Electronics,Samsung,White,Lost,"Samsung mobile phone, White",Neha Shah,Yash Mehta,Recovered
+DEMO097,BCA,BCA,2th Floor,2026-07-03,BCA-201,Power Bank,Electronics,Ambrane,White,Found,"Ambrane power bank, White",Naman Gupta,Sakshi Chavan,Recovered
+DEMO098,BCA,BCA,2th Floor,2026-06-11,BCA-201,Keys,Personal,Generic,Black,Lost,"Generic keys, Black",Aditi Joshi,Ved Sharma,Recovered
+DEMO099,BCA,BCA,Common / Facility,2026-07-23,BCA Lab 2,USB Drive,Electronics,SanDisk,Silver,Lost,"SanDisk usb drive, Silver",Riya Bansal,,Active
+DEMO100,BCA,BCA,Common / Facility,2026-07-06,Lobby,Earphones,Electronics,Realme,White,Found,"Realme earphones, White",Aditi Joshi,Pranav Kadam,Claimed
+DEMO101,BCA,BCA,Common / Facility,2026-02-12,BCA Lab 2,TWS Earbuds,Electronics,Boat,Black,Found,"Boat tws earbuds, Black",Ishwari Deshmukh,Karan Mehta,Claimed
+DEMO102,BCA,BCA,Common / Facility,2026-02-22,Seminar Hall,Calculator,Stationery,Texas Instruments,Black,Lost,"Texas Instruments calculator, Black",Meera Pawar,,Active
+DEMO103,EBLOCK,E BLOCK,Common / Facility,2026-02-04,Common Area,Mouse,Electronics,HP,White,Lost,"HP mouse, White",Rohan More,,Active
+DEMO104,EBLOCK,E BLOCK,Common / Facility,2026-01-23,Staircase,Keyboard,Electronics,HP,Black,Lost,"HP keyboard, Black",Meera Pawar,Naman Gupta,Claimed
+DEMO105,EBLOCK,E BLOCK,1th Floor,2026-05-15,E-104,Parker Pen,Stationery,Parker,Black,Found,"Parker parker pen, Black",Arjun Deshmukh,,Active
+DEMO106,EBLOCK,E BLOCK,Common / Facility,2026-07-21,E Lab,Calculator,Stationery,Texas Instruments,White,Lost,"Texas Instruments calculator, White",Rahul Jain,Rahul Jain,Claimed
+DEMO107,EBLOCK,E BLOCK,Common / Facility,2026-08-22,Common Area,Notebook,Books & Stationery,Paperkraft,Black,Lost,"Paperkraft notebook, Black",Ved Sharma,Naman Gupta,Recovered
+DEMO108,EBLOCK,E BLOCK,Common / Facility,2026-09-24,Staircase,Mouse,Electronics,HP,White,Lost,"HP mouse, White",Diya Jadhav,,Active
+DEMO109,EBLOCK,E BLOCK,Common / Facility,2026-06-09,Staircase,Tiffin Box,Personal,Signoraware,Blue,Lost,"Signoraware tiffin box, Blue",Rohan More,Karan Mehta,Recovered
+DEMO110,EBLOCK,E BLOCK,1th Floor,2026-10-01,E-104,ID Card,Documents,University,White,Found,"University id card, White",Ved Sharma,Sakshi Chavan,Claimed
+DEMO111,EBLOCK,E BLOCK,1th Floor,2026-02-27,E-103,Wallet,Personal,Generic,Brown,Lost,"Generic wallet, Brown",Tanmay Joshi,,Active
+DEMO112,EBLOCK,E BLOCK,Common / Facility,2026-01-10,Staircase,Tablet,Electronics,Xiaomi,Silver,Lost,"Xiaomi tablet, Silver",Ved Sharma,Ishwari Deshmukh,Recovered
+DEMO113,EBLOCK,E BLOCK,1th Floor,2026-06-03,E-104,Keys,Personal,Generic,Silver,Lost,"Generic keys, Silver",Om Tiwari,Aarav Patil,Recovered
+DEMO114,EBLOCK,E BLOCK,Common / Facility,2026-01-04,E Lab,Power Bank,Electronics,Portronics,White,Found,"Portronics power bank, White",Aditya Sharma,Yash Mehta,Claimed
+DEMO115,EBLOCK,E BLOCK,Common / Facility,2026-04-28,Staircase,HDMI Cable,Electronics,Portronics,Black,Lost,"Portronics hdmi cable, Black",Shreya Patil,,Active
+DEMO116,EBLOCK,E BLOCK,2th Floor,2026-07-16,E-202,Wallet,Personal,Leathercraft,Blue,Lost,"Leathercraft wallet, Blue",Ved Sharma,,Active
+DEMO117,EBLOCK,E BLOCK,Common / Facility,2026-04-25,Seminar Hall,Textbook,Books & Stationery,Pearson,Green,Lost,"Pearson textbook, Green",Aditya Sharma,,Active
+DEMO118,EBLOCK,E BLOCK,Common / Facility,2026-09-18,E Lab 2,Mouse,Electronics,HP,Black,Lost,"HP mouse, Black",Ishwari Deshmukh,Karan Mehta,Recovered
+DEMO119,EBLOCK,E BLOCK,Common / Facility,2026-03-23,Lobby,Smart Watch,Accessories,Noise,Blue,Lost,"Noise smart watch, Blue",Rohan More,Diya Jadhav,Claimed

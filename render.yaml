@@ -1,0 +1,25 @@
+# Render Blueprint – deploys CampusFind as a Python web service with a persistent disk.
+# NOTE: SQLite and uploaded photos need a persistent disk, which Render only offers on paid plans.
+# On a free plan the filesystem is wiped on every deploy/restart, so data would be lost.
+services:
+  - type: web
+    name: campusfind
+    runtime: python
+    plan: starter
+    buildCommand: pip install -r requirements.txt
+    # One worker on purpose: SQLite is a single file and the login-attempt counter lives in memory.
+    startCommand: gunicorn app:app --workers 1 --threads 4 --timeout 60 --bind 0.0.0.0:$PORT
+    healthCheckPath: /
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_PATH
+        value: /var/data/database.db
+      - key: UPLOAD_FOLDER
+        value: /var/data/uploads
+    disk:
+      name: campusfind-data
+      mountPath: /var/data
+      sizeGB: 1

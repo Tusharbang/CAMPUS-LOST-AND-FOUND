@@ -1,0 +1,1 @@
+{% extends "base.html" %}{% block body %}<h2>{{ page[0] }}</h2><div class="grid">{% for head, body in page[1] %}<div class="card"><h3>{{ head }}</h3>{% if body is string %}<p>{{ body }}</p>{% else %}<ol>{% for i in body %}<li>{{ i }}</li>{% endfor %}</ol>{% endif %}</div>{% endfor %}</div>{% endblock %}
